@@ -1,0 +1,12 @@
+bs4==0.0.2
+keyboard==0.13.5
+lxml==5.3.0
+matplotlib==3.9.2
+numpy==2.1.1
+pandas==2.2.2
+requests==2.32.3
+selenium==4.24.0
+selenium-wire==5.1.0
+tqdm==4.66.5
+webdriver-manager==4.0.2
+argparse
